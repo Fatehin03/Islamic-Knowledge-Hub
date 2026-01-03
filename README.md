@@ -6,4 +6,4 @@
 
 > A modern, API-driven Islamic dashboard for daily worship.
 
-[View Live Demo]([https://Fatehin03.github.io/islamic-hub/](https://fatehin03.github.io/Islamic-Knowledge-Hub/))
+[View Live Demo](https://fatehin03.github.io/Islamic-Knowledge-Hub/)
